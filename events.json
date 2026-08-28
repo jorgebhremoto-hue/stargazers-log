@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "description": "My first repository on GitHub.",
+    "language": "HTML",
+    "stars": 215,
+    "starredAt": "2026-08-20",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 171000,
+    "starredAt": "2026-08-12",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repository": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": "Markdown",
+    "stars": 365000,
+    "starredAt": "2026-07-29",
+    "url": "https://github.com/sindresorhus/awesome"
+  }
+]
